@@ -32,8 +32,8 @@ section {
   margin-left: 41px;
   margin-top: 20px;
   text-align: center;
-  /* width: 545px; */
-  /* height: 700px; */
+  width: 545px;
+  height: 700px;
   background: yellow;
   float: left;
 }
